@@ -10,8 +10,8 @@
 ---
 
 ## 🧑‍💼 About Me
-I'm Aryan Kulshrestha, currently pursuing my Master’s in **Cybersecurity** at the **University of Maryland, College Park**.  
-I specialize in **Cloud Security, Threat Detection, and DevSecOps**, and enjoy solving CTFs and building security challenges.  
+I'm Aryan Kulshrestha, completed my Masters of Engineering in **Cybersecurity** at the **University of Maryland, College Park**.  
+I specialize in **Cybersec, Infosec, Cloud Security, and DevSecOps**, and enjoy solving CTFs and building security challenges for conferences as well as for fun.  
 I’m passionate about securing systems and contributing to community-driven security tools and events.
 
 ---
