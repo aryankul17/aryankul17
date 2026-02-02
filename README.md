@@ -11,6 +11,15 @@ I focus on **Cybersecurity, Cloud Security, and DevSecOps**, and enjoy solving C
 
 ---
 
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/aryankul17" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:aryan.17.kulshrestha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://aryankul17.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000?logo=github&style=for-the-badge" /></a>
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 **Languages & Scripting:**  
@@ -41,13 +50,10 @@ I focus on **Cybersecurity, Cloud Security, and DevSecOps**, and enjoy solving C
 
 ---
 
-## 🔗 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/aryankul17" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:aryan.17.kulshrestha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://aryankul17.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000?logo=github&style=for-the-badge" /></a>
+## 📊 Summary
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryankul17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
-
 ---
 
 ## 📌 Pinned Repositories
