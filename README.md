@@ -1,18 +1,13 @@
 <h1 align="center">Hi there, I'm Aryan 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Engineer;Cloud%20Security%20Practitioner;DevSecOps%20Learner;CTF%20Challenge%20Builder&center=true&width=500&height=30" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/aryankul17/aryankul17/blob/main/assets/banner.png" alt="Welcome Banner" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Engineer;Cloud%20Security%20Practitioner;DevSecOps%20Learner;CTF%20Challenge%20Builder&center=true&width=520&height=30" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💼 About Me
 I'm Aryan Kulshrestha, completed my Masters of Engineering in **Cybersecurity** at the **University of Maryland, College Park**.  
-I specialize in **Cybersec, Infosec, Cloud Security, and DevSecOps**, and enjoy solving CTFs and building security challenges for conferences as well as for fun.  
-I’m passionate about securing systems and contributing to community-driven security tools and events.
+I focus on **Cybersecurity, Cloud Security, and DevSecOps**, and enjoy solving CTFs and building security challenges.
 
 ---
 
@@ -46,25 +41,7 @@ I’m passionate about securing systems and contributing to community-driven sec
 
 ---
 
-## 📊 Summary
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryankul17&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankul17&theme=highcontrast" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryankul17&theme=monokai" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryankul17&theme=dracula&area=true" />
-</p>
-
----
-
 ## 🔗 Connect with Me
-
 <p align="left">
   <a href="https://linkedin.com/in/aryankul17" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:aryan.17.kulshrestha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge" /></a>
@@ -74,8 +51,4 @@ I’m passionate about securing systems and contributing to community-driven sec
 ---
 
 ## 📌 Pinned Repositories
-
-<!-- Use GitHub's "Customize your pins" feature to manually pin your top 6 projects -->
-
----
-
+<!-- Use GitHub's "Customize your pins" feature to pin your top projects -->
